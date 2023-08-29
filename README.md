@@ -5,12 +5,7 @@
  <img height=150px src="./img/amazon.jpg" alt="Amazon-logo"></a>
 </p>
 
-<h1 align="center">Amazon-Flipkart Price Comparison Engine</h1>
 
-
-
-<h4 align="center">Compares price of the product entered by the user from e-commerce sites Amazon and Flipkart.</h4>
-<hr>
 
 
 
