@@ -6,15 +6,7 @@
 </p>
 
 <h1 align="center">Amazon-Flipkart Price Comparison Engine</h1>
-<div align="center">
-<img src="https://img.shields.io/github/license/sushantPatrikar/Amazon-Flipkart-Price-Comparison-Engine">	
-<img src="https://www.codefactor.io/repository/github/sushantpatrikar/Amazon-Flipkart-Price-Comparison-Engine/badge/master">
-<img src="https://img.shields.io/github/issues-pr/sushantPatrikar/Amazon-Flipkart-Price-Comparison-Engine">
-<img src="https://img.shields.io/github/stars/sushantPatrikar/Amazon-Flipkart-Price-Comparison-Engine">
-<img src="https://img.shields.io/github/forks/sushantPatrikar/Amazon-Flipkart-Price-Comparison-Engine">
-<img src="https://img.shields.io/github/issues/sushantPatrikar/Amazon-Flipkart-Price-Comparison-Engine">
-<img src="https://img.shields.io/badge/PRs-welcome-informational">
-</div>
+
 
 
 <h4 align="center">Compares price of the product entered by the user from e-commerce sites Amazon and Flipkart.</h4>
