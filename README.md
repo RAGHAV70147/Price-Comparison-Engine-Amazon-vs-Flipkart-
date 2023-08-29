@@ -2,7 +2,7 @@
  A price comparison engine is a python based program that allows users to compare prices of products from different online retailers. Amazon and Flipkart are two of the most popular e-commerce platforms in India, and there are a number of price comparison engines that allow users to compare prices of products on these two platforms.
 <p align="center">
   <a href="" rel="noopener">
- <img height=150px src="./img/amazon.jpg" alt="Amazon-logo"></a>
+ <img height=150px src="https://images.news18.com/ibnlive/uploads/2023/01/amazon-16737830173x2.jpg?impolicy=website&width=510&height=356" alt="Amazon-logo"></a>
 </p>
 
 
@@ -45,4 +45,3 @@ For Example: Instead of searching 'Apple iPhone X (Space Grey, 256GB)', search '
 ## Future Scope:
 Currently this program works only on two e-commerce sites. More websites can be added to it. If you have more ideas, I'm excited to view Pull Requests from your side!
 
-For more information, you can visit my <a href="https://sushantpatrikar.github.io/">website</a>.
